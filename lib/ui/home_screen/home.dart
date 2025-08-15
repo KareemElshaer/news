@@ -46,9 +46,9 @@ class _HomeScreenState extends State<HomeScreen> {
         scrolledUnderElevation: 0,
         elevation: 0,
         title: isSearching
-            ? TextFormField(
+            ? TextField(
                 autofocus: true,
-                onFieldSubmitted: (text) async {
+                onChanged: (text) async {
                   if (text.trim().isEmpty) {
                     articlsbyscearch.clear();
                     setState(() {});
