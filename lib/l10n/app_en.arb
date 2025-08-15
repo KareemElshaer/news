@@ -1,0 +1,14 @@
+{
+"home" : "Home",
+"language" : "Language",
+"theme" : "Theme",
+"go_to_home" : "Go To Home",
+"english" : "English" ,
+"arabic" : "Arabic" ,
+"dark" : "Dark" ,
+"light" : "Light" ,
+"good_morning_here_is_some_news_for_you" : "Good Morning\nHere is Some News For You" ,
+"view_all" : "View All" ,
+"view_all_article" : "View All Article" ,
+"search" : "Search"
+}

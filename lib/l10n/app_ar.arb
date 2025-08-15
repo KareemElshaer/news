@@ -1,0 +1,14 @@
+{
+"home" : "الرئيسية",
+"language" : "اللغة",
+"theme" : "الثيم" ,
+"go_to_home" : "الذهاب الي الرئيسية",
+"english" : "الإنجليزية" ,
+"arabic" : "العربية" ,
+"dark" : "ليلي" ,
+"light" : "نهاري" ,
+"good_morning_here_is_some_news_for_you" : "صباح الخير،\nإليك بعض الأخبار لك.",
+"view_all" : "اظهار الكل" ,
+"view_all_article" : "اظهر المقال كامل" ,
+"search" : "بحث"
+}
